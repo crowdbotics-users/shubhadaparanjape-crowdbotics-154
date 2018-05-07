@@ -10,3 +10,4 @@ django-bootstrap4
 djangorestframework
 django-guardian
 django-allauth
+django-social-auth
